@@ -6,6 +6,7 @@ export default class oSimplex {
   constructor() {
     this.perm;
     this.permGradIndex3D;
+    this.setup3D();
   }
   
   // LCG based gen...
