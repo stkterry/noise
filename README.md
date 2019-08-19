@@ -57,4 +57,4 @@ I have a lot yet I want to do with this bit of code and this repo,
 including adding several more noise functions and tweaking the ones present for 
 better JS specific performance. This repo was tossed together quickly so
 I could move on to more pressing material and was made more for personal convenience
-then anyone else's benefit.  Though, if you like it you're welcome to it.
+than anyone else's benefit.  Though, if you like it you're welcome to it.
